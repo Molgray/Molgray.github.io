@@ -143,12 +143,7 @@ main {
 section {
     margin-bottom:.5%;
 }
-section article img{
-    height:500px;
-    width: 500px;
-    border-radius: 50%;
-    margin-left: 25%;
-}
+
 
 aside {
     display:flex;
